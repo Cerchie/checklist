@@ -6,7 +6,6 @@
 - [ ] Ask about available internet
 - [ ] Ask about solar panel installation and taxes in Flagstaff
 - [ ] Ask about when roof replaced
-- [ ] 
 - [ ] Check ventilation
 
 #### Living Room 
